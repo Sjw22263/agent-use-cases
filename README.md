@@ -23,3 +23,7 @@ The examples are illustrative, not reports of live tests. Keep permissions scope
 ## System Administration
 
 Start with the [System Administration use case](https://onet.com.au/projects/agent-use-cases/system-administration/), then use the separate [Sysadmin Agent Kit](https://github.com/Sjw22263/sysadmin-agent-kit) for commissioning, staged authority and operational templates. That kit is not duplicated here.
+
+## Licence
+
+[CC BY 4.0](LICENSE). You may use, adapt and share the templates, worked examples and documentation in this repository, including commercially, with attribution. Linked resources retain their own licences.
